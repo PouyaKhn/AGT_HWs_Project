@@ -1,5 +1,5 @@
 # Algorithmic Game Theory Course solutions and project
-This repository contains my solutions for homework and project of Algorithmic Game Theory course held at Sharif University of Technology (SUT) by Prof. Mohammad Izadi in Fall 2020.
+This repository contains my solutions for homework and project of Algorithmic Game Theory course held at [Sharif University of Technology (SUT)](https://en.sharif.edu/) by [Prof. Mohammad Izadi](https://scholar.google.com/citations?user=On8Cw-MAAAAJ&hl=en) in Fall 2020.
 
 ## HomeWorks
 
